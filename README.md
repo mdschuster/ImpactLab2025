@@ -2,4 +2,7 @@
 
 Repository for ImpactLab 2025: Computer Science and Programming Fundamentals PDF lectures and supplementary materials for the afternoon sessions.
 
-Below are the links to each of the larger sketches that we worked on in the class.
+Links to in-class p5.js sketches:
+
+ - 07-07:
+     - My Drawing: [https://editor.p5js.org/micahdschuster/sketches/pZbtaRryg](https://editor.p5js.org/micahdschuster/sketches/YxNB-dD5a)
