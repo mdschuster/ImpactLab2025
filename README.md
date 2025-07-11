@@ -12,3 +12,7 @@ Links to in-class p5.js sketches:
      - Monte Carlo Pi: [https://editor.p5js.org/micahdschuster/sketches/7GKpxb9Aq](https://editor.p5js.org/micahdschuster/sketches/7GKpxb9Aq)
      - Monte Hall Problem: [https://editor.p5js.org/micahdschuster/sketches/jyt_RWux9](https://editor.p5js.org/micahdschuster/sketches/jyt_RWux9)
      - Object Oriented Ball: [https://editor.p5js.org/micahdschuster/sketches/XGMT8nykE](https://editor.p5js.org/micahdschuster/sketches/XGMT8nykE)
+ - 07-10:
+     - Bubble: [https://editor.p5js.org/micahdschuster/sketches/soWeC66te](https://editor.p5js.org/micahdschuster/sketches/soWeC66te)
+     - Random Walker: [https://editor.p5js.org/micahdschuster/sketches/soWeC66te](https://editor.p5js.org/micahdschuster/sketches/soWeC66te)
+     - Paint:[https://editor.p5js.org/micahdschuster/sketches/fcNOB1Dbl](https://editor.p5js.org/micahdschuster/sketches/fcNOB1Dbl)
