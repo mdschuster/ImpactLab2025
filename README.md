@@ -20,3 +20,6 @@ Links to in-class p5.js sketches:
      - Bubble Update: [https://editor.p5js.org/micahdschuster/sketches/E9jYNiQgR](https://editor.p5js.org/micahdschuster/sketches/E9jYNiQgR)
      - 2D Perlin Noise: [https://editor.p5js.org/micahdschuster/sketches/PuuKXSfRM](https://editor.p5js.org/micahdschuster/sketches/PuuKXSfRM)
      - Perlin Walker: [https://editor.p5js.org/micahdschuster/sketches/PXteYjPQY](https://editor.p5js.org/micahdschuster/sketches/PXteYjPQY)
+ - 07-15:
+     - 1D CA: [https://editor.p5js.org/micahdschuster/sketches/nS8NhKzpm](https://editor.p5js.org/micahdschuster/sketches/nS8NhKzpm)
+     - 2D CA: [https://editor.p5js.org/micahdschuster/sketches/hsmvnvV_4](https://editor.p5js.org/micahdschuster/sketches/hsmvnvV_4)
