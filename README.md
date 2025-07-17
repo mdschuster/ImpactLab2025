@@ -26,3 +26,5 @@ Links to in-class p5.js sketches:
  - 07-16:
      - Image Processing: [https://editor.p5js.org/micahdschuster/sketches/O9JanMhM2](https://editor.p5js.org/micahdschuster/sketches/O9JanMhM2)
      - Mandelbrot Set: [https://editor.p5js.org/micahdschuster/sketches/7sRJ1Qx-v](https://editor.p5js.org/micahdschuster/sketches/7sRJ1Qx-v)
+ - 07-17:
+     - Snake: [https://editor.p5js.org/micahdschuster/sketches/fyS-gYhWn](https://editor.p5js.org/micahdschuster/sketches/fyS-gYhWn)
